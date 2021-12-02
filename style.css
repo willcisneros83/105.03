@@ -1,0 +1,25 @@
+#usersTable{
+    width: 100%;
+}
+.error{
+    border:1px solid blue;
+}
+
+#menu-container{
+    background-color: rgb(233, 231, 241);
+    font-style: italic;
+
+}
+
+h1{
+    font-size: 40px;
+}
+
+.input{
+    border-color: blue;
+    border-radius: 100%;
+}
+
+body{
+    background-color: cyan;
+}
